@@ -16,3 +16,7 @@
 ![alt text](https://github.com/maxipoblete/MCOC2020-P1/blob/master/7.png )
 ![alt text](https://github.com/maxipoblete/MCOC2020-P1/blob/master/8.png )
 ![alt text](https://github.com/maxipoblete/MCOC2020-P1/blob/master/9.png )
+
+
+ 
+***ERROR ENCONTRADO: el error esta en una variable de la distancia dentro de la ecuacion (no se ha modificado nada)***
