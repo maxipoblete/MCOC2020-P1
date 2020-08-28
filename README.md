@@ -20,3 +20,7 @@
 
  
 ***ERROR ENCONTRADO: el error esta en una variable de la distancia dentro de la ecuacion (no se ha modificado nada)***
+
+### E3 -  I/O de vectores de estado y predicciones usando la EDM básica
+
+1849958.4027598512
